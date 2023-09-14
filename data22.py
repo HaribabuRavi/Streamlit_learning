@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import time
 import PIL
-improt sklearn
+import sklearn
 from PIL import Image
 from sklearn import datasets
 from sklearn import svm
